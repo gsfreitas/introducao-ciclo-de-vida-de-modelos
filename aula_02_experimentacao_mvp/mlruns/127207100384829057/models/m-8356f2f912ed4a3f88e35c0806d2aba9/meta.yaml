@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/gfrei/Documents/1. FIAP/2. PROJETOS/introducao-ciclo-de-vida-de-modelos/aula_02_experimentacao_mvp/mlruns/127207100384829057/models/m-8356f2f912ed4a3f88e35c0806d2aba9/artifacts
+creation_timestamp: 1773020789603
+experiment_id: '127207100384829057'
+last_updated_timestamp: 1773020794531
+model_id: m-8356f2f912ed4a3f88e35c0806d2aba9
+model_type: null
+name: model
+source_run_id: 40deec58593741fd9b582f34f56c9d76
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/gfrei/Documents/1. FIAP/2. PROJETOS/introducao-ciclo-de-vida-de-modelos/aula_02_experimentacao_mvp/mlruns/127207100384829057/40deec58593741fd9b582f34f56c9d76/artifacts
+end_time: 1773020794539
+entry_point_name: ''
+experiment_id: '127207100384829057'
+lifecycle_stage: active
+run_id: 40deec58593741fd9b582f34f56c9d76
+run_name: logistic_regression_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773020789430
+status: 3
+tags: []
+user_id: gfrei
